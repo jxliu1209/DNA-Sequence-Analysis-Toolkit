@@ -1,0 +1,1 @@
+"""Command-line entry points and CLI helpers will live here."""
