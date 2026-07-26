@@ -23,8 +23,8 @@ Milestones:
 
 - [ ] FASTA parsing
 - [ ] DNA validation
-- [ ] GC content
-- [ ] Nucleotide frequencies
+- [x] GC content
+- [x] Nucleotide frequencies
 - [ ] Reverse complement
 - [ ] Transcription
 - [ ] Translation
